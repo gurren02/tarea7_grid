@@ -1,0 +1,5 @@
+Repositorio en Github:
+https://github.com/gurren02/tarea6_videoresponsive
+
+Despliegen la en web:
+https://gurren02.github.io/tarea6_videoresponsive/
